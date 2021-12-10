@@ -47,7 +47,7 @@ async def cb_handler(client, query):
         keyboard = InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("How to Deploy?", url="https://youtu.be/hkmc3e7U7R4"),
+                    InlineKeyboardButton("Auto Filter Bot", url="https://t.me/Ajak_TG_Bot"),
                     InlineKeyboardButton("About Me", callback_data="about_data")
                 ],
                 [
